@@ -1,511 +1,314 @@
 ﻿#EXTM3U
-#EXTINF:-1,|PT| RTP 1
-http://igelipurdia.live:8080/nati/diciembre/30655
-#EXTINF:-1,|PT| RTP 1 HD
-http://igelipurdia.live:8080/nati/diciembre/30656
-#EXTINF:-1,|PT| RTP 1 FHD
-http://igelipurdia.live:8080/nati/diciembre/30657
-#EXTINF:-1,|PT| RTP 2
-http://igelipurdia.live:8080/nati/diciembre/30658
-#EXTINF:-1,|PT| RTP 2 FHD
-http://igelipurdia.live:8080/nati/diciembre/30659
-#EXTINF:-1,|PT| SIC
-http://igelipurdia.live:8080/nati/diciembre/30660
-#EXTINF:-1,|PT| SIC HD
-http://igelipurdia.live:8080/nati/diciembre/30661
-#EXTINF:-1,|PT| SIC FHD
-http://igelipurdia.live:8080/nati/diciembre/30662
-#EXTINF:-1,|PT| TVI HD
-http://igelipurdia.live:8080/nati/diciembre/30663
-#EXTINF:-1,|PT| TVI FHD
-http://igelipurdia.live:8080/nati/diciembre/30664
-#EXTINF:-1,|PT| TVI
-http://igelipurdia.live:8080/nati/diciembre/30665
-#EXTINF:-1,|PT| RTP 3
-http://igelipurdia.live:8080/nati/diciembre/30666
-#EXTINF:-1,|PT| RTP 3 HD
-http://igelipurdia.live:8080/nati/diciembre/30667
-#EXTINF:-1,|PT| CMTV
-http://igelipurdia.live:8080/nati/diciembre/30668
-#EXTINF:-1,|PT| CMTV FHD
-http://igelipurdia.live:8080/nati/diciembre/30669
-#EXTINF:-1,|PT| TVI 24
-http://igelipurdia.live:8080/nati/diciembre/30670
-#EXTINF:-1,|PT| TVI 24 HD
-http://igelipurdia.live:8080/nati/diciembre/30671
-#EXTINF:-1,|PT| SIC NOTICIAS
-http://igelipurdia.live:8080/nati/diciembre/30672
-#EXTINF:-1,|PT| SIC NOTICIAS HD
-http://igelipurdia.live:8080/nati/diciembre/30673
-#EXTINF:-1,|PT| TVI FICCAO SD
-http://igelipurdia.live:8080/nati/diciembre/30674
-#EXTINF:-1,|PT| SIC MULHER SD
-http://igelipurdia.live:8080/nati/diciembre/30675
-#EXTINF:-1,|PT| SIC RADICAL SD
-http://igelipurdia.live:8080/nati/diciembre/30676
-#EXTINF:-1,|PT| SIC RADICAL HD
-http://igelipurdia.live:8080/nati/diciembre/30677
-#EXTINF:-1,|PT| SIC CARAS SD
-http://igelipurdia.live:8080/nati/diciembre/30678
-#EXTINF:-1,|PT| SIC CARAS HD
-http://igelipurdia.live:8080/nati/diciembre/30679
-#EXTINF:-1,|PT| CANAL Q SD
-http://igelipurdia.live:8080/nati/diciembre/30680
-#EXTINF:-1,|PT| PORTO CANAL
-http://igelipurdia.live:8080/nati/diciembre/30681
-#EXTINF:-1,|PT| PORTO CANAL HD
-http://igelipurdia.live:8080/nati/diciembre/30682
-#EXTINF:-1,|PT| RTP MEMORIA SD
-http://igelipurdia.live:8080/nati/diciembre/30683
-#EXTINF:-1,|PT| RTP AFRICA
-http://igelipurdia.live:8080/nati/diciembre/30684
-#EXTINF:-1,|PT| RTP MADEIRA
-http://igelipurdia.live:8080/nati/diciembre/30685
-#EXTINF:-1,|PT| RTP ACORES
-http://igelipurdia.live:8080/nati/diciembre/30686
-#EXTINF:-1,|PT| TV RECORD HD
-http://igelipurdia.live:8080/nati/diciembre/30687
-#EXTINF:-1,|PT| *******Exclusivos SuperTV********
-http://igelipurdia.live:8080/nati/diciembre/30688
-#EXTINF:-1,|PT| SuperTV CINEMA Brevemente
-http://igelipurdia.live:8080/nati/diciembre/30689
-#EXTINF:-1,|PT| SuperTV CINEMA1 (Midway)
-http://igelipurdia.live:8080/nati/diciembre/30690
-#EXTINF:-1,|PT| SuperTV CINEMA2 (Bombshell:O Escândalo)
-http://igelipurdia.live:8080/nati/diciembre/30691
-#EXTINF:-1,|PT| SuperTV CINEMA3 (Last Christmas)
-http://igelipurdia.live:8080/nati/diciembre/30692
-#EXTINF:-1,|PT| SuperTV CINEMA4 (Maléfica: Mestre do Mal)
-http://igelipurdia.live:8080/nati/diciembre/30693
-#EXTINF:-1,|PT| SUPERTV CINEMA KIDS (Frozen 2: O Reino do Gelo) VO
-http://igelipurdia.live:8080/nati/diciembre/30694
-#EXTINF:-1,|PT| Filmes Comédia (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30695
-#EXTINF:-1,|PT| Fox Kids (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30696
-#EXTINF:-1,|PT| Dragonball TV (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30697
-#EXTINF:-1,|PT| Simpsons TV (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30698
-#EXTINF:-1,|PT| Disney Cinema (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30699
-#EXTINF:-1,|PT| Movies Now Steven Seagal (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30700
-#EXTINF:-1,|PT| Movies Now Jason Statham (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30701
-#EXTINF:-1,|PT| Old Wild West Cinema (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30702
-#EXTINF:-1,|PT| Romance Channel (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30703
-#EXTINF:-1,|PT| Netflix (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30704
-#EXTINF:-1,|PT| Marvel Televison (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30705
-#EXTINF:-1,|PT| HBO Portugal (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30706
-#EXTINF:-1,|PT| Documentários SuperTV (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30707
-#EXTINF:-1,|PT| Just for laughs Gags (Exclusivo)
-http://igelipurdia.live:8080/nati/diciembre/30708
-#EXTINF:-1,|PT| Apanhados
-http://igelipurdia.live:8080/nati/diciembre/30709
-#EXTINF:-1,|PT| Portugal a Rir (SuperTV)
-http://igelipurdia.live:8080/nati/diciembre/30710
-#EXTINF:-1,|PT| CANAL 11
-http://igelipurdia.live:8080/nati/diciembre/30711
-#EXTINF:-1,|PT| CANAL 11 FHD
-http://igelipurdia.live:8080/nati/diciembre/30712
-#EXTINF:-1,|PT| SPORT TV+
-http://igelipurdia.live:8080/nati/diciembre/30713
-#EXTINF:-1,|PT| SPORT TV+ HD
-http://igelipurdia.live:8080/nati/diciembre/30714
-#EXTINF:-1,|PT| SPORT TV 1
-http://igelipurdia.live:8080/nati/diciembre/30715
-#EXTINF:-1,|PT| SPORT TV 1 HD
-http://igelipurdia.live:8080/nati/diciembre/30716
-#EXTINF:-1,|PT| SPORT TV 1 FHD
-http://igelipurdia.live:8080/nati/diciembre/30717
-#EXTINF:-1,|PT| SPORT TV 2
-http://igelipurdia.live:8080/nati/diciembre/30718
-#EXTINF:-1,|PT| SPORT TV 2 HD
-http://igelipurdia.live:8080/nati/diciembre/30719
-#EXTINF:-1,|PT| SPORT TV 2 FHD
-http://igelipurdia.live:8080/nati/diciembre/30720
-#EXTINF:-1,|PT| SPORT TV 3
-http://igelipurdia.live:8080/nati/diciembre/30721
-#EXTINF:-1,|PT| SPORT TV 3 HD
-http://igelipurdia.live:8080/nati/diciembre/30722
-#EXTINF:-1,|PT| SPORT TV 3 FHD
-http://igelipurdia.live:8080/nati/diciembre/30723
-#EXTINF:-1,|PT| SPORT TV 4
-http://igelipurdia.live:8080/nati/diciembre/30724
-#EXTINF:-1,|PT| SPORT TV 4 HD
-http://igelipurdia.live:8080/nati/diciembre/30725
-#EXTINF:-1,|PT| SPORT TV 4 FHD
-http://igelipurdia.live:8080/nati/diciembre/30726
-#EXTINF:-1,|PT| SPORT TV 5
-http://igelipurdia.live:8080/nati/diciembre/30727
-#EXTINF:-1,|PT| SPORT TV 5 HD
-http://igelipurdia.live:8080/nati/diciembre/30728
-#EXTINF:-1,|PT| SPORT TV 5 FHD
-http://igelipurdia.live:8080/nati/diciembre/30729
-#EXTINF:-1,|PT| SPORT TV NBA FHD
-http://igelipurdia.live:8080/nati/diciembre/30730
-#EXTINF:-1,|PT| ELEVEN SPORTS 1
-http://igelipurdia.live:8080/nati/diciembre/30731
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
-http://igelipurdia.live:8080/nati/diciembre/30732
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
-http://igelipurdia.live:8080/nati/diciembre/30733
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
-http://igelipurdia.live:8080/nati/diciembre/30734
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
-http://igelipurdia.live:8080/nati/diciembre/30735
-#EXTINF:-1,|PT| ELEVEN SPORTS 3
-http://igelipurdia.live:8080/nati/diciembre/30736
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
-http://igelipurdia.live:8080/nati/diciembre/30737
-#EXTINF:-1,|PT| ELEVEN SPORTS 4
-http://igelipurdia.live:8080/nati/diciembre/30738
-#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
-http://igelipurdia.live:8080/nati/diciembre/30739
-#EXTINF:-1,|PT| ELEVEN SPORTS 5
-http://igelipurdia.live:8080/nati/diciembre/30740
-#EXTINF:-1,|PT| ELEVEN SPORTS 5 HD
-http://igelipurdia.live:8080/nati/diciembre/30741
-#EXTINF:-1,|PT| ELEVEN SPORTS 6
-http://igelipurdia.live:8080/nati/diciembre/30742
-#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
-http://igelipurdia.live:8080/nati/diciembre/30743
-#EXTINF:-1,|PT| BENFICA TV
-http://igelipurdia.live:8080/nati/diciembre/30744
-#EXTINF:-1,|PT| BENFICA TV HD
-http://igelipurdia.live:8080/nati/diciembre/30745
-#EXTINF:-1,|PT| BENFICA TV FHD
-http://igelipurdia.live:8080/nati/diciembre/30746
-#EXTINF:-1,|PT| SPORTING TV
-http://igelipurdia.live:8080/nati/diciembre/30747
-#EXTINF:-1,|PT| SPORTING TV HD
-http://igelipurdia.live:8080/nati/diciembre/30748
-#EXTINF:-1,|PT| EUROSPORT 1
-http://igelipurdia.live:8080/nati/diciembre/30749
-#EXTINF:-1,|PT| EUROSPORT 1 HD
-http://igelipurdia.live:8080/nati/diciembre/30750
-#EXTINF:-1,|PT| EUROSPORT 2
-http://igelipurdia.live:8080/nati/diciembre/30751
-#EXTINF:-1,|PT| A BOLA TV
-http://igelipurdia.live:8080/nati/diciembre/30752
-#EXTINF:-1,|PT| PFC
-http://igelipurdia.live:8080/nati/diciembre/30753
-#EXTINF:-1,|PT| TVCine TOP
-http://igelipurdia.live:8080/nati/diciembre/30754
-#EXTINF:-1,|PT| TVCine TOP HD
-http://igelipurdia.live:8080/nati/diciembre/30755
-#EXTINF:-1,|PT| TVCine EDITION
-http://igelipurdia.live:8080/nati/diciembre/30756
-#EXTINF:-1,|PT| TVCine EDITION HD
-http://igelipurdia.live:8080/nati/diciembre/30757
-#EXTINF:-1,|PT| TVCine EMOTION
-http://igelipurdia.live:8080/nati/diciembre/30758
-#EXTINF:-1,|PT| TVCine EMOTION HD
-http://igelipurdia.live:8080/nati/diciembre/30759
-#EXTINF:-1,|PT| TVCine ACTION
-http://igelipurdia.live:8080/nati/diciembre/30760
-#EXTINF:-1,|PT| TVCine ACTION HD
-http://igelipurdia.live:8080/nati/diciembre/30761
-#EXTINF:-1,|PT| NOS STUDIOS FHD
-http://igelipurdia.live:8080/nati/diciembre/30762
-#EXTINF:-1,|PT| HOLLYWOOD
-http://igelipurdia.live:8080/nati/diciembre/30763
-#EXTINF:-1,|PT| HOLLYWOOD HD
-http://igelipurdia.live:8080/nati/diciembre/30764
-#EXTINF:-1,|PT| AMC
-http://igelipurdia.live:8080/nati/diciembre/30765
-#EXTINF:-1,|PT| AMC HD
-http://igelipurdia.live:8080/nati/diciembre/30766
-#EXTINF:-1,|PT| FOX MOVIES
-http://igelipurdia.live:8080/nati/diciembre/30767
-#EXTINF:-1,|PT| FOX MOVIES FHD
-http://igelipurdia.live:8080/nati/diciembre/30768
-#EXTINF:-1,|PT| CINEMUNDO
-http://igelipurdia.live:8080/nati/diciembre/30769
-#EXTINF:-1,|PT| CINEMUNDO FHD
-http://igelipurdia.live:8080/nati/diciembre/30770
-#EXTINF:-1,|PT| CRIME+ INVESTIGATION
-http://igelipurdia.live:8080/nati/diciembre/30771
-#EXTINF:-1,|PT| AXN
-http://igelipurdia.live:8080/nati/diciembre/30772
-#EXTINF:-1,|PT| AXN HD
-http://igelipurdia.live:8080/nati/diciembre/30773
-#EXTINF:-1,|PT| AXN WHITE HD
-http://igelipurdia.live:8080/nati/diciembre/30774
-#EXTINF:-1,|PT| AXN BLACK HD
-http://igelipurdia.live:8080/nati/diciembre/30775
-#EXTINF:-1,|PT| FOX
-http://igelipurdia.live:8080/nati/diciembre/30776
-#EXTINF:-1,|PT| FOX HD
-http://igelipurdia.live:8080/nati/diciembre/30777
-#EXTINF:-1,|PT| FOX LIFE HD
-http://igelipurdia.live:8080/nati/diciembre/30778
-#EXTINF:-1,|PT| FOX CRIME
-http://igelipurdia.live:8080/nati/diciembre/30779
-#EXTINF:-1,|PT| FOX CRIME HD
-http://igelipurdia.live:8080/nati/diciembre/30780
-#EXTINF:-1,|PT| FOX COMEDY HD
-http://igelipurdia.live:8080/nati/diciembre/30781
-#EXTINF:-1,|PT| FOX COMEDY
-http://igelipurdia.live:8080/nati/diciembre/30782
-#EXTINF:-1,|PT| TV SERIES
-http://igelipurdia.live:8080/nati/diciembre/30783
-#EXTINF:-1,|PT| TV SERIES HD
-http://igelipurdia.live:8080/nati/diciembre/30784
-#EXTINF:-1,|PT| SYFY
-http://igelipurdia.live:8080/nati/diciembre/30785
-#EXTINF:-1,|PT| SYFY FHD
-http://igelipurdia.live:8080/nati/diciembre/30786
-#EXTINF:-1,|PT| TVI REALITY SD
-http://igelipurdia.live:8080/nati/diciembre/30787
-#EXTINF:-1,|PT| ZAP VIVA FHD
-http://igelipurdia.live:8080/nati/diciembre/30788
-#EXTINF:-1,|PT| BLAZE
-http://igelipurdia.live:8080/nati/diciembre/30789
-#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC
-http://igelipurdia.live:8080/nati/diciembre/30790
-#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC HD
-http://igelipurdia.live:8080/nati/diciembre/30791
-#EXTINF:-1,|PT| NAT GEO WILD
-http://igelipurdia.live:8080/nati/diciembre/30792
-#EXTINF:-1,|PT| DISCOVERY CHANNEL
-http://igelipurdia.live:8080/nati/diciembre/30793
-#EXTINF:-1,|PT| DISCOVERY INVESTIGATION FHD
-http://igelipurdia.live:8080/nati/diciembre/30794
-#EXTINF:-1,|PT| TRAVEL CHANNEL HD
-http://igelipurdia.live:8080/nati/diciembre/30795
-#EXTINF:-1,|PT| CACA E PESCA HD
-http://igelipurdia.live:8080/nati/diciembre/30796
-#EXTINF:-1,|PT| ODISSEIA
-http://igelipurdia.live:8080/nati/diciembre/30797
-#EXTINF:-1,|PT| HISTORIA
-http://igelipurdia.live:8080/nati/diciembre/30798
-#EXTINF:-1,|PT| DEUTSCHE WELLE SD
-http://igelipurdia.live:8080/nati/diciembre/30799
-#EXTINF:-1,|PT| 24 KITCHEN
-http://igelipurdia.live:8080/nati/diciembre/30800
-#EXTINF:-1,|PT| THE FOOD NETWORK HD
-http://igelipurdia.live:8080/nati/diciembre/30801
-#EXTINF:-1,|PT| TLC
-http://igelipurdia.live:8080/nati/diciembre/30802
-#EXTINF:-1,|PT| FINE LIVING NETWORK HD
-http://igelipurdia.live:8080/nati/diciembre/30803
-#EXTINF:-1,|PT| MY CUISINE
-http://igelipurdia.live:8080/nati/diciembre/30804
-#EXTINF:-1,|PT| KURIAKOS TV SD
-http://igelipurdia.live:8080/nati/diciembre/30805
-#EXTINF:-1,|PT| FASHION TV HD
-http://igelipurdia.live:8080/nati/diciembre/30806
-#EXTINF:-1,|PT| MAS CHIC
-http://igelipurdia.live:8080/nati/diciembre/30807
-#EXTINF:-1,|PT| GLOBO FHD
-http://igelipurdia.live:8080/nati/diciembre/30808
-#EXTINF:-1,|PT| GLOBO NOW SD
-http://igelipurdia.live:8080/nati/diciembre/30809
-#EXTINF:-1,|PT| TPA INTERNACIONAL
-http://igelipurdia.live:8080/nati/diciembre/30810
-#EXTINF:-1,|PT| TVE INTERNACIONAL SD
-http://igelipurdia.live:8080/nati/diciembre/30811
-#EXTINF:-1,|PT| TV GALICIA SD
-http://igelipurdia.live:8080/nati/diciembre/30812
-#EXTINF:-1,|PT| RECORD NEWS SD
-http://igelipurdia.live:8080/nati/diciembre/30813
-#EXTINF:-1,|PT| TV5 MONDE EUROPE SD
-http://igelipurdia.live:8080/nati/diciembre/30814
-#EXTINF:-1,|PT| SKY NEWS SD
-http://igelipurdia.live:8080/nati/diciembre/30815
-#EXTINF:-1,|PT| FOX NEWS SD
-http://igelipurdia.live:8080/nati/diciembre/30816
-#EXTINF:-1,|PT| EURO NEWS SD
-http://igelipurdia.live:8080/nati/diciembre/30817
-#EXTINF:-1,|PT| BBC WORLD NEWS HD
-http://igelipurdia.live:8080/nati/diciembre/30818
-#EXTINF:-1,|PT| BLOOMBERG
-http://igelipurdia.live:8080/nati/diciembre/30819
-#EXTINF:-1,|PT| FATIMA TV HD
-http://igelipurdia.live:8080/nati/diciembre/30820
-#EXTINF:-1,|PT| CANCAO NOVA
-http://igelipurdia.live:8080/nati/diciembre/30821
-#EXTINF:-1,|PT| FUEL TV HD
-http://igelipurdia.live:8080/nati/diciembre/30822
-#EXTINF:-1,|PT| MOTORVISION HD
-http://igelipurdia.live:8080/nati/diciembre/30823
-#EXTINF:-1,|PT| CACAVISION
-http://igelipurdia.live:8080/nati/diciembre/30824
-#EXTINF:-1,|PT| KOMBAT SPORT
-http://igelipurdia.live:8080/nati/diciembre/30825
-#EXTINF:-1,|PT|  COMBATE HD
-http://igelipurdia.live:8080/nati/diciembre/30826
-#EXTINF:-1,|PT| TOROS TV HD
-http://igelipurdia.live:8080/nati/diciembre/30827
-#EXTINF:-1,|PT| RED BULL HD
-http://igelipurdia.live:8080/nati/diciembre/30828
-#EXTINF:-1,|PT|  GINX E-SPORTS TV
-http://igelipurdia.live:8080/nati/diciembre/30829
-#EXTINF:-1,|PT| GAMETOON
-http://igelipurdia.live:8080/nati/diciembre/30830
-#EXTINF:-1,|PT| EUROCHANNEL
-http://igelipurdia.live:8080/nati/diciembre/30831
-#EXTINF:-1,|PT| DOG TV HD
-http://igelipurdia.live:8080/nati/diciembre/30832
-#EXTINF:-1,|PT| DISNEY CHANNEL
-http://igelipurdia.live:8080/nati/diciembre/30833
-#EXTINF:-1,|PT| DISNEY JUNIOR
-http://igelipurdia.live:8080/nati/diciembre/30834
-#EXTINF:-1,|PT| CARTOON NETWORK
-http://igelipurdia.live:8080/nati/diciembre/30835
-#EXTINF:-1,|PT| PANDA
-http://igelipurdia.live:8080/nati/diciembre/30836
-#EXTINF:-1,|PT| PANDA BIGGS
-http://igelipurdia.live:8080/nati/diciembre/30837
-#EXTINF:-1,|PT| JIMJAM
-http://igelipurdia.live:8080/nati/diciembre/30838
-#EXTINF:-1,|PT| SIC K
-http://igelipurdia.live:8080/nati/diciembre/30839
-#EXTINF:-1,|PT| BABY TV
-http://igelipurdia.live:8080/nati/diciembre/30840
-#EXTINF:-1,|PT| NICK JR
-http://igelipurdia.live:8080/nati/diciembre/30841
-#EXTINF:-1,|PT| NICKELODEON
-http://igelipurdia.live:8080/nati/diciembre/30842
-#EXTINF:-1,|PT| BOOMERANG SD
-http://igelipurdia.live:8080/nati/diciembre/30843
-#EXTINF:-1,|PT| ICONCERTS HD
-http://igelipurdia.live:8080/nati/diciembre/30844
-#EXTINF:-1,|PT| TRACE URBAN
-http://igelipurdia.live:8080/nati/diciembre/30845
-#EXTINF:-1,|PT| TRACE TOCA
-http://igelipurdia.live:8080/nati/diciembre/30846
-#EXTINF:-1,|PT| MTV PORTUGAL HD
-http://igelipurdia.live:8080/nati/diciembre/30847
-#EXTINF:-1,|PT| MTV LIVE HD
-http://igelipurdia.live:8080/nati/diciembre/30848
-#EXTINF:-1,|PT| MCM POP
-http://igelipurdia.live:8080/nati/diciembre/30849
-#EXTINF:-1,|PT| MCM TOP
-http://igelipurdia.live:8080/nati/diciembre/30850
-#EXTINF:-1,|PT| VH1
-http://igelipurdia.live:8080/nati/diciembre/30851
-#EXTINF:-1,|PT| AFRO MUSIC SD
-http://igelipurdia.live:8080/nati/diciembre/30852
-#EXTINF:-1,|PT| MEZZO LIVE HD
-http://igelipurdia.live:8080/nati/diciembre/30853
-#EXTINF:-1,|PT| CLUBBING TV
-http://igelipurdia.live:8080/nati/diciembre/30854
-#EXTINF:-1,|PT| MYZEN TV
-http://igelipurdia.live:8080/nati/diciembre/30855
-#EXTINF:-1,|PT| BBC ENTERTAINMENT
-http://igelipurdia.live:8080/nati/diciembre/30856
-#EXTINF:-1,|PT| E! ENTERTAINMENT
-http://igelipurdia.live:8080/nati/diciembre/30857
-#EXTINF:-1,|PT| CBS REALITY
-http://igelipurdia.live:8080/nati/diciembre/30858
-#EXTINF:-1,|PT| TVI REALITY MOSAICO SD
-http://igelipurdia.live:8080/nati/diciembre/30859
-#EXTINF:-1,|PT| TVI REALITY CAMARA 1 SD
-http://igelipurdia.live:8080/nati/diciembre/30860
-#EXTINF:-1,|PT| TVI REALITY CAMARA 2 SD
-http://igelipurdia.live:8080/nati/diciembre/30861
-#EXTINF:-1,|PT| TVI REALITY CAMARA 3 SD
-http://igelipurdia.live:8080/nati/diciembre/30862
-#EXTINF:-1,|PT| TVI REALITY CAMARA 4 SD
-http://igelipurdia.live:8080/nati/diciembre/30863
-#EXTINF:-1,|PT| CNBC EUROPE SD
-http://igelipurdia.live:8080/nati/diciembre/30864
-#EXTINF:-1,|PT| CNN SD
-http://igelipurdia.live:8080/nati/diciembre/30865
-#EXTINF:-1,•●★----|PT| CANAL LOW |PT|---★●•
-http://igelipurdia.live:8080/nati/diciembre/30866
-#EXTINF:-1,|PT| RTP 1 LOW
-http://igelipurdia.live:8080/nati/diciembre/30867
-#EXTINF:-1,|PT| RTP 2 LOW
-http://igelipurdia.live:8080/nati/diciembre/30868
-#EXTINF:-1,|PT| SIC LOW
-http://igelipurdia.live:8080/nati/diciembre/30869
-#EXTINF:-1,|PT| TVI LOW
-http://igelipurdia.live:8080/nati/diciembre/30870
-#EXTINF:-1,|PT| TVI 24 LOW
-http://igelipurdia.live:8080/nati/diciembre/30871
-#EXTINF:-1,|PT| CMTV LOW
-http://igelipurdia.live:8080/nati/diciembre/30872
-#EXTINF:-1,|PT| SIC NOTICIAS LOW
-http://igelipurdia.live:8080/nati/diciembre/30873
-#EXTINF:-1,|PT| TVI REALITY LOW
-http://igelipurdia.live:8080/nati/diciembre/30874
-#EXTINF:-1,|PT| TVI FICCAO LOW
-http://igelipurdia.live:8080/nati/diciembre/30875
-#EXTINF:-1,|PT| SIC CARAS LOW
-http://igelipurdia.live:8080/nati/diciembre/30876
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 LOW
-http://igelipurdia.live:8080/nati/diciembre/30877
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 LOW
-http://igelipurdia.live:8080/nati/diciembre/30878
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 LOW
-http://igelipurdia.live:8080/nati/diciembre/30879
-#EXTINF:-1,|PT| SPORT TV 1 LOW
-http://igelipurdia.live:8080/nati/diciembre/30880
-#EXTINF:-1,|PT| SPORT TV 2 LOW
-http://igelipurdia.live:8080/nati/diciembre/30881
-#EXTINF:-1,|PT| SPORT TV 3 LOW
-http://igelipurdia.live:8080/nati/diciembre/30882
-#EXTINF:-1,|PT| SPORT TV 4 LOW
-http://igelipurdia.live:8080/nati/diciembre/30883
-#EXTINF:-1,|PT| SPORT TV 5 LOW
-http://igelipurdia.live:8080/nati/diciembre/30884
-#EXTINF:-1,|PT| SPORT TV+ LOW
-http://igelipurdia.live:8080/nati/diciembre/30885
-#EXTINF:-1,|PT| BTV 1 LOW
-http://igelipurdia.live:8080/nati/diciembre/30886
-#EXTINF:-1,|PT| CANAL 11 LOW
-http://igelipurdia.live:8080/nati/diciembre/30887
-#EXTINF:-1,|PT| HOLLYWOOD LOW
-http://igelipurdia.live:8080/nati/diciembre/30888
-#EXTINF:-1,|PT| CINEMUNDO LOW
-http://igelipurdia.live:8080/nati/diciembre/30889
-#EXTINF:-1,|PT| SYFY LOW
-http://igelipurdia.live:8080/nati/diciembre/30890
-#EXTINF:-1,|PT| AMC LOW
-http://igelipurdia.live:8080/nati/diciembre/30891
-#EXTINF:-1,|PT| FOX MOVIES LOW
-http://igelipurdia.live:8080/nati/diciembre/30892
-#EXTINF:-1,|PT| TVCine TOP LOW
-http://igelipurdia.live:8080/nati/diciembre/30893
-#EXTINF:-1,|PT| TVCine EDITION LOW
-http://igelipurdia.live:8080/nati/diciembre/30894
-#EXTINF:-1,|PT| TVCine EMOTION LOW
-http://igelipurdia.live:8080/nati/diciembre/30895
-#EXTINF:-1,|PT| TVCine ACTION LOW
-http://igelipurdia.live:8080/nati/diciembre/30896
-#EXTINF:-1,|PT| TV SERIES LOW
-http://igelipurdia.live:8080/nati/diciembre/30897
-#EXTINF:-1,|PT| FOX LOW
-http://igelipurdia.live:8080/nati/diciembre/30898
-#EXTINF:-1,|PT| FOX LIFE LOW
-http://igelipurdia.live:8080/nati/diciembre/30899
-#EXTINF:-1,|PT| FOX CRIME LOW
-http://igelipurdia.live:8080/nati/diciembre/30900
-#EXTINF:-1,|PT| FOX COMEDY LOW
-http://igelipurdia.live:8080/nati/diciembre/30901
-#EXTINF:-1,|PT| AXN LOW
-http://igelipurdia.live:8080/nati/diciembre/30902
-#EXTINF:-1,|PT| AXN WHITE LOW
-http://igelipurdia.live:8080/nati/diciembre/30903
-#EXTINF:-1,|PT| AXN BLACK LOW
-http://igelipurdia.live:8080/nati/diciembre/30904
-#EXTINF:-1,|PT| TV RECORD LOW
-http://igelipurdia.live:8080/nati/diciembre/30905
-#EXTINF:-1,|PT| GLOBO LOW
-http://igelipurdia.live:8080/nati/diciembre/30906
-#EXTINF:-1,|PT| DISNEY CHANNEL LOW
-http://igelipurdia.live:8080/nati/diciembre/30907
-#EXTINF:-1,|PT| PANDA LOW
-http://igelipurdia.live:8080/nati/diciembre/30908
-#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC LOW
-http://igelipurdia.live:8080/nati/diciembre/30909
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3169
+#EXTINF:-1,PT001:A&E
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3249
+#EXTINF:-1,PT002:A Bola TV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3248
+#EXTINF:-1,PT003:Afro Music
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3247
+#EXTINF:-1,PT004:AMC
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3246
+#EXTINF:-1,PT005:ARTV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3245
+#EXTINF:-1,PT006:AXN
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3244
+#EXTINF:-1,PT007:AXN Black
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3243
+#EXTINF:-1,PT008:AXN White
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3242
+#EXTINF:-1,PT009:Baby First
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3241
+#EXTINF:-1,PT010:Baby TV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3240
+#EXTINF:-1,PT011:Benfica TV 1
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3239
+#EXTINF:-1,PT012:Benfica TV 2
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3238
+#EXTINF:-1,PT013:BTV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3237
+#EXTINF:-1,PT014:Canal Historia
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3236
+#EXTINF:-1,PT015:Canal Panda
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3235
+#EXTINF:-1,PT016:Cartoon Network
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3234
+#EXTINF:-1,PT017:Casa E Pesca
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3233
+#EXTINF:-1,PT018:CBS Reality
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3232
+#EXTINF:-1,PT019:Cine Mundo
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3231
+#EXTINF:-1,PT020:Discovery Channel
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3230
+#EXTINF:-1,PT021:Discovery Showcase
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3229
+#EXTINF:-1,PT022:Disney Channel
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3228
+#EXTINF:-1,PT023:Disney Junior
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3227
+#EXTINF:-1,PT024:E! Entertainment
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3226
+#EXTINF:-1,PT025:Euro Sport 1
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3225
+#EXTINF:-1,PT026:Euro Sport 2
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3224
+#EXTINF:-1,PT027:Euro Sport News
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3223
+#EXTINF:-1,PT028:Fox Comedy
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3222
+#EXTINF:-1,PT029:Fox Crime
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3221
+#EXTINF:-1,PT030:Fox
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3220
+#EXTINF:-1,PT031:Fox Life
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3219
+#EXTINF:-1,PT032:Fox Movies
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3218
+#EXTINF:-1,PT033:Fuel TV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3217
+#EXTINF:-1,PT034:Globo
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3216
+#EXTINF:-1,PT035:Historia
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3215
+#EXTINF:-1,PT036:Hollywood
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3214
+#EXTINF:-1,PT037:Jim Jam
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3213
+#EXTINF:-1,PT038:MCS Extreme
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3212
+#EXTINF:-1,PT039:MOV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3211
+#EXTINF:-1,PT040:Motors TV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3210
+#EXTINF:-1,PT041:Motor Vision
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3209
+#EXTINF:-1,PT042:Kombat Sports
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3208
+#EXTINF:-1,PT043:MTV Portuga
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3207
+#EXTINF:-1,PT044:NAT GEO Wild
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3206
+#EXTINF:-1,PT045:NAT GEO
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3205
+#EXTINF:-1,PT046:Nickelodeon
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3204
+#EXTINF:-1,PT047:Odisseia
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3203
+#EXTINF:-1,PT048:Panda Biggs
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3202
+#EXTINF:-1,PT049:PFC
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3201
+#EXTINF:-1,PT050:Porto Canal
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3200
+#EXTINF:-1,PT051:RTP 1
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3199
+#EXTINF:-1,PT052:RTP 2
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3198
+#EXTINF:-1,PT053:RTP 3
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3197
+#EXTINF:-1,PT054:Sic
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3196
+#EXTINF:-1,PT055:SIC Mulher
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3195
+#EXTINF:-1,PT056:SIC Noticias
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3194
+#EXTINF:-1,PT057:SIC Radical
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3193
+#EXTINF:-1,PT058:Sport TV 1
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3192
+#EXTINF:-1,PT059:Sport TV 2
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3191
+#EXTINF:-1,PT060:Sport TV 3
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3190
+#EXTINF:-1,PT061:Sport TV 4
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3189
+#EXTINF:-1,PT062:Sport TV 5
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3188
+#EXTINF:-1,PT063:Sport TV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3187
+#EXTINF:-1,PT064:Sporting TV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3186
+#EXTINF:-1,PT065:SYFY
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3185
+#EXTINF:-1,PT066:TLC
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3184
+#EXTINF:-1,PT067:Toros TV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3183
+#EXTINF:-1,PT068:Travel Channel
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3182
+#EXTINF:-1,PT069:TV Cine 1
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3181
+#EXTINF:-1,PT070:TV Cine 2
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3180
+#EXTINF:-1,PT071:TV Cine 3
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3179
+#EXTINF:-1,PT072:TV Cine 4
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3178
+#EXTINF:-1,PT073:TV Galicia
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3177
+#EXTINF:-1,PT074:TV Globo Premium
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3176
+#EXTINF:-1,PT075:TV Record
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3175
+#EXTINF:-1,PT076:TVC Series
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3174
+#EXTINF:-1,PT077:TVI
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3173
+#EXTINF:-1,PT078:TVI 24
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3172
+#EXTINF:-1,PT079:VH1
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3171
+#EXTINF:-1,PT080:VH1 Classic
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/3170
+#EXTINF:-1,PT081:TVI REALITY
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29409
+#EXTINF:-1,PT082:TVC HD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29408
+#EXTINF:-1,PT083:My Cuisine
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29407
+#EXTINF:-1,PT084:TVI Reality HD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29406
+#EXTINF:-1,PT085:RTP MEMóRIA
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29405
+#EXTINF:-1,PT086:RTP áFRICA
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29404
+#EXTINF:-1,PT087:RTP A?ORES
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29403
+#EXTINF:-1,PT088:GINX
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29402
+#EXTINF:-1,PT089:NICKELODEON
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29401
+#EXTINF:-1,PT090:NATIONAL GEOGRAPHIC
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29400
+#EXTINF:-1,PT091:MCS Lifestyle HD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29399
+#EXTINF:-1,PT092:NOS Studios
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29398
+#EXTINF:-1,PT093:EUROSPORT
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29397
+#EXTINF:-1,PT094:CM TV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29396
+#EXTINF:-1,PT095:CCTV 4
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29395
+#EXTINF:-1,PT096:CANAL Q
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29394
+#EXTINF:-1,PT097:24 KITCHEN
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29393
+#EXTINF:-1,PT098:RTP MADEIRA
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29392
+#EXTINF:-1,PT099:FIGHT NETWORK HD 1080
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29391
+#EXTINF:-1,PT100:SPORT TV 3HD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29390
+#EXTINF:-1,PT101:TPA
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29389
+#EXTINF:-1,PT102:Deutsche Welle
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29388
+#EXTINF:-1,PT103:CACAVISION
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29387
+#EXTINF:-1,PT104:EuroNews
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29386
+#EXTINF:-1,PT105:REDE TV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29385
+#EXTINF:-1,PT106:Blaze
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29384
+#EXTINF:-1,PT107:BLOOMBERG
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29383
+#EXTINF:-1,PT108:CACA E PESCA
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29382
+#EXTINF:-1,PT109:TVI FICCAO HD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29381
+#EXTINF:-1,PT110:MCM POP
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29380
+#EXTINF:-1,PT111:Trace Urban
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29379
+#EXTINF:-1,PT112:MCM TOP
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29378
+#EXTINF:-1,PT113:CMTV FHD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29377
+#EXTINF:-1,PT114:Cancao Nova
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29376
+#EXTINF:-1,PT115:TVC 2
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29375
+#EXTINF:-1,PT116:Crime & Investigation
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29374
+#EXTINF:-1,PT117:DISCOVERY CHANNEL
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29373
+#EXTINF:-1,PT118:ClubbingTV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29372
+#EXTINF:-1,PT119:ELEVEN SPORTS 1 FHD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29371
+#EXTINF:-1,PT120:ELEVEN SPORTS 2 FHD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29370
+#EXTINF:-1,PT121:ELEVEN SPORTS 3 FHD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29369
+#EXTINF:-1,PT122:ELEVEN SPORTS 4 FHD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29368
+#EXTINF:-1,PT123:CGTN
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29367
+#EXTINF:-1,PT124:Sport TV NBA
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29366
+#EXTINF:-1,PT125:SKY News
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29365
+#EXTINF:-1,PT126:EURONEWS
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29364
+#EXTINF:-1,PT127:FIGHT NETWORH
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29363
+#EXTINF:-1,PT128:FINE LIVING
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29362
+#EXTINF:-1,PT129:RTP INTERNACIONAL
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29361
+#EXTINF:-1,PT130:SET MAX
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29360
+#EXTINF:-1,PT131:TraceTV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29359
+#EXTINF:-1,PT132:Globo Now HD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29358
+#EXTINF:-1,PT133:Arte
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29357
+#EXTINF:-1,PT134:JIMJAM
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29356
+#EXTINF:-1,PT135:MVM
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29355
+#EXTINF:-1,PT136:AlJazeera
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29354
+#EXTINF:-1,PT137:Trace TOCA
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29353
+#EXTINF:-1,PT138:MEZZO HD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29352
+#EXTINF:-1,PT139:MTV HD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29351
+#EXTINF:-1,PT140:ZAP VIVA HD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29350
+#EXTINF:-1,PT141:NBA FHD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29349
+#EXTINF:-1,PT142:Localvisao
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29348
+#EXTINF:-1,PT143:Globovision
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29347
+#EXTINF:-1,PT144:PFC INTERNACIONAL
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29346
+#EXTINF:-1,PT145:PANDA HD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29345
+#EXTINF:-1,PT146:CANAL 11
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29344
+#EXTINF:-1,PT147:Real Madrid TV
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29343
+#EXTINF:-1,PT148:Record News
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29342
+#EXTINF:-1,PT149:SIC K
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29341
+#EXTINF:-1,PT150:AFRO MUSIC CHANNEL
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29340
+#EXTINF:-1,PT151:RTP Memoria
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29339
+#EXTINF:-1,PT152:TV FATIMA
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29338
+#EXTINF:-1,PT153:SIC CARAS FHD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29337
+#EXTINF:-1,PT154:SIC Kids
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29336
+#EXTINF:-1,PT155:TVC 4 FHD
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29335
+#EXTINF:-1,PT156:Eleven Sports 5
+http://mu03.amzlive.net:8880/YKLM3310/2RYev3CMec/29334
